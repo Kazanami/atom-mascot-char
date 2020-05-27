@@ -1,0 +1,8 @@
+{
+  "imagePath": {
+      "type": "string",
+      "title": "File Path",
+      "description": "Local File path in to mini charactor.",
+      "default": "C:\\Windows\\Web\\Wallpaper\\Windows\\img0.jpg"
+  }
+}
