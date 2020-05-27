@@ -1,7 +1,7 @@
 {
   "name": "atom-mascot-char",
   "main": "./lib/atom-mascot-char",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/Kazanami/atom-mascot-char",
