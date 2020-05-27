@@ -4,5 +4,11 @@
       "title": "File Path",
       "description": "Local File path in to mini charactor.",
       "default": "C:\\Windows\\Web\\Wallpaper\\Windows\\img0.jpg"
+  },
+  "size": {
+    "type": "number",
+    "title": "Image Size",
+    "description": "Set Image Size",
+    "default": "30%"
   }
 }
