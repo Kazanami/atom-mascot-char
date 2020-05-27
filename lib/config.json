@@ -6,7 +6,7 @@
       "default": "C:\\Windows\\Web\\Wallpaper\\Windows\\img0.jpg"
   },
   "size": {
-    "type": "number",
+    "type": "string",
     "title": "Image Size",
     "description": "Set Image Size",
     "default": "30%"
