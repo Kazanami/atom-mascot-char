@@ -1,0 +1,16 @@
+{
+  "name": "atom-mascot-char",
+  "main": "./lib/atom-mascot-char",
+  "version": "0.0.1",
+  "description": "A short description of your package",
+  "keywords": [],
+  "repository": "https://github.com/Kazanami/atom-mascot-char",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "jquery": "^3.5.1"
+  }
+}
