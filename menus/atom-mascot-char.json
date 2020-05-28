@@ -17,6 +17,10 @@
             {
               "label": "Toggle",
               "command": "atom-mascot-char:toggle"
+            },
+            {
+              "label": "Refresh",
+              "command": "atom-mascot-char:refresh"
             }
           ]
         }
